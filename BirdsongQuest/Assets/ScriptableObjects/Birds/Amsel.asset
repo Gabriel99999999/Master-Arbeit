@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Amsel
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 1
+  displayName: Amsel
+  germanArticle: 1
+  image: {fileID: 3919166446139785228, guid: 7f495c9e7e5480245a6ab7ba48dbd7c4, type: 3}
+  calls:
+  - {fileID: 8300000, guid: 5f4bbfa0afa5bd64b9d9ba2c6ad661c6, type: 3}
+  - {fileID: 8300000, guid: 8cd3580e61bcbea4fb3c18985f17024f, type: 3}

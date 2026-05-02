@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Eisvogel
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 10
+  displayName: Eisvogel
+  germanArticle: 3
+  image: {fileID: -2803384520104992164, guid: 6f2b177344b41434cae29db40f6ffc4f, type: 3}
+  calls:
+  - {fileID: 8300000, guid: 978d127623dc11c44b7375b0823d6bb7, type: 3}
+  - {fileID: 8300000, guid: 2418e1a2275d960438fc975a1167dae0, type: 3}

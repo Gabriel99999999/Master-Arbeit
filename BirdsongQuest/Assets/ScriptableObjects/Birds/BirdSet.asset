@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 523ed6889ba057c47bd14fa306573dc0, type: 3}
+  m_Name: BirdSet
+  m_EditorClassIdentifier: Assembly-CSharp::BirdSet
+  birds:
+  - {fileID: 11400000, guid: ca0671d245e9289449efb886d8987ba1, type: 2}
+  - {fileID: 11400000, guid: f9cef8441f9e78a4dba6d516924b4d1e, type: 2}
+  - {fileID: 11400000, guid: 5f9fce6e32ab7554e96c14ceedb77d6e, type: 2}
+  - {fileID: 11400000, guid: 003b64e68d3a01f41b45453f9d6a06b7, type: 2}
+  - {fileID: 11400000, guid: f1cab95831a9fbe4f96bf67e58469476, type: 2}
+  - {fileID: 11400000, guid: 83bc3b8dbd92fc4429b53b3090f23c71, type: 2}
+  - {fileID: 11400000, guid: fae69d76f7dfcf64489d348a3e38408d, type: 2}
+  - {fileID: 11400000, guid: 014c3ee3d1e92cf49804be81166d3819, type: 2}
+  - {fileID: 11400000, guid: 90b05459089568448841d5cf05c67d66, type: 2}
+  - {fileID: 11400000, guid: db5f59b66b7d5cd418450d6c0103d7d3, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Singdrossel
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 9
+  displayName: Singdrossel
+  germanArticle: 1
+  image: {fileID: -8040179066948626181, guid: 4ffc5a68714647c4da65d4adf7ba88a4, type: 3}
+  calls:
+  - {fileID: 8300000, guid: e0ce87a0a6838ea479a7e217ecf9ba40, type: 3}
+  - {fileID: 8300000, guid: 921a07a1a5591a94c8be84e59e3e9b4e, type: 3}

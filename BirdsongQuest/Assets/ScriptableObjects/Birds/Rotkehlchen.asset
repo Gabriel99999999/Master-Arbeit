@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Rotkehlchen
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 2
+  displayName: Rotkehlchen
+  germanArticle: 2
+  image: {fileID: 189383075876394975, guid: 1d71fb82145106e41b57ef12c5386b5f, type: 3}
+  calls:
+  - {fileID: 8300000, guid: 998321d84e0fecc41b738c7b3af53f86, type: 3}
+  - {fileID: 8300000, guid: c8fbf4924c9bbc44a972a6114a6140a5, type: 3}
+  - {fileID: 8300000, guid: b75b9f7ec6c525447ac69994b16c2d0e, type: 3}

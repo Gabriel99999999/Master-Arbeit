@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 87ed160b3160289418e6a59796295909
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6083462444955266393
+    second: paths ausgeschnitten_0
+  - first:
+      213: -809570877110030198
+    second: paths ausgeschnitten_1
+  - first:
+      213: 9148487308403247184
+    second: paths ausgeschnitten_2
+  - first:
+      213: -329457633587515981
+    second: paths ausgeschnitten_3
+  - first:
+      213: 8936018522015533838
+    second: paths ausgeschnitten_4
+  - first:
+      213: -2095274379892724228
+    second: paths ausgeschnitten_5
+  - first:
+      213: 692436738408580722
+    second: paths ausgeschnitten_6
+  - first:
+      213: -6513865615383139126
+    second: paths ausgeschnitten_7
+  - first:
+      213: -1691588190776374840
+    second: paths ausgeschnitten_8
+  - first:
+      213: 2233121298980930546
+    second: paths ausgeschnitten_9
+  - first:
+      213: 4713973256399282791
+    second: paths ausgeschnitten_10
+  - first:
+      213: -5976955699380308541
+    second: paths ausgeschnitten_11
+  - first:
+      213: -5481093777186107373
+    second: paths ausgeschnitten_12
+  - first:
+      213: 6923767597791321362
+    second: paths ausgeschnitten_13
+  - first:
+      213: -2996546715409557747
+    second: paths ausgeschnitten_14
+  - first:
+      213: 2957545388258314369
+    second: paths ausgeschnitten_15
+  - first:
+      213: 3374719182278221715
+    second: paths ausgeschnitten_16
+  - first:
+      213: -5102603097801725308
+    second: paths ausgeschnitten_17
+  - first:
+      213: 8116283241472947974
+    second: paths ausgeschnitten_18
+  - first:
+      213: 7017805788880517398
+    second: paths ausgeschnitten_19
+  - first:
+      213: -1968306551164955654
+    second: paths ausgeschnitten_20
+  - first:
+      213: -1892389367303658206
+    second: paths ausgeschnitten_21
+  - first:
+      213: 5474268960834882750
+    second: paths ausgeschnitten_22
+  - first:
+      213: 1939270284394977359
+    second: paths ausgeschnitten_23
+  - first:
+      213: -8447604388662100245
+    second: paths ausgeschnitten_24
+  - first:
+      213: -6658873345254161268
+    second: paths ausgeschnitten_25
+  - first:
+      213: -6998194977189315140
+    second: paths ausgeschnitten_26
+  - first:
+      213: 6469034385242009861
+    second: paths ausgeschnitten_27
+  - first:
+      213: 6960747987406671470
+    second: paths ausgeschnitten_28
+  - first:
+      213: -6842206883169471453
+    second: paths ausgeschnitten_29
+  - first:
+      213: 1762630600205962707
+    second: paths ausgeschnitten_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paths ausgeschnitten_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 933
+        width: 154
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95decf3bcdccc6450800000000000000
+      internalID: 6083462444955266393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 951
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80fa599393d3c4f0800000000000000
+      internalID: -809570877110030198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 941
+        width: 168
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0588b897cb4f5fe70800000000000000
+      internalID: 9148487308403247184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_3
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 939
+        width: 89
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bda97d17088d6bf0800000000000000
+      internalID: -329457633587515981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 797
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b0c0f208d130c70800000000000000
+      internalID: 8936018522015533838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 790
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd648f7d071ce2e0800000000000000
+      internalID: -2095274379892724228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 770
+        width: 170
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276064e7b870c9900800000000000000
+      internalID: 692436738408580722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 805
+        width: 134
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acce4781cb91a95a0800000000000000
+      internalID: -6513865615383139126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 618
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9478eb0854688e0800000000000000
+      internalID: -1691588190776374840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 618
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f30e166df3adfe10800000000000000
+      internalID: 2233121298980930546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 630
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ee5473b56b6140800000000000000
+      internalID: 4713973256399282791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 618
+        width: 139
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5b03c65769d0da0800000000000000
+      internalID: -5976955699380308541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 467
+        width: 124
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310d73eef3e3fe3b0800000000000000
+      internalID: -5481093777186107373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_13
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 526
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d16bd42f9261060800000000000000
+      internalID: 6923767597791321362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 467
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07562383a02a66d0800000000000000
+      internalID: -2996546715409557747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 468
+        width: 168
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1884b326cdf4b0920800000000000000
+      internalID: 2957545388258314369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_16
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 475
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd36c573965de20800000000000000
+      internalID: 3374719182278221715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 359
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a68bd6489ef29b0800000000000000
+      internalID: -5102603097801725308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 309
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60773703b94d2a070800000000000000
+      internalID: 8116283241472947974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 332
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61937ecde21446160800000000000000
+      internalID: 7017805788880517398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_20
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 309
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af31db8ce9b2fa4e0800000000000000
+      internalID: -1968306551164955654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_21
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 293
+        width: 138
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225a32195e1ecb5e0800000000000000
+      internalID: -1892389367303658206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 156
+        width: 137
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc828fad9288fb40800000000000000
+      internalID: 5474268960834882750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 215
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4855d88c0ca9ea10800000000000000
+      internalID: 1939270284394977359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 156
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeb3cad09414ca80800000000000000
+      internalID: -8447604388662100245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 156
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c840fc309fde693a0800000000000000
+      internalID: -6658873345254161268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 166
+        width: 145
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd35bb0fba61ee90800000000000000
+      internalID: -6998194977189315140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 37
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501332cbf70a6c950800000000000000
+      internalID: 6469034385242009861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_28
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 116
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec3683a6b899060800000000000000
+      internalID: 6960747987406671470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 18
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32473f067199b01a0800000000000000
+      internalID: -6842206883169471453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paths ausgeschnitten_30
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd828b213f167810800000000000000
+      internalID: 1762630600205962707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      paths ausgeschnitten_0: 6083462444955266393
+      paths ausgeschnitten_1: -809570877110030198
+      paths ausgeschnitten_10: 4713973256399282791
+      paths ausgeschnitten_11: -5976955699380308541
+      paths ausgeschnitten_12: -5481093777186107373
+      paths ausgeschnitten_13: 6923767597791321362
+      paths ausgeschnitten_14: -2996546715409557747
+      paths ausgeschnitten_15: 2957545388258314369
+      paths ausgeschnitten_16: 3374719182278221715
+      paths ausgeschnitten_17: -5102603097801725308
+      paths ausgeschnitten_18: 8116283241472947974
+      paths ausgeschnitten_19: 7017805788880517398
+      paths ausgeschnitten_2: 9148487308403247184
+      paths ausgeschnitten_20: -1968306551164955654
+      paths ausgeschnitten_21: -1892389367303658206
+      paths ausgeschnitten_22: 5474268960834882750
+      paths ausgeschnitten_23: 1939270284394977359
+      paths ausgeschnitten_24: -8447604388662100245
+      paths ausgeschnitten_25: -6658873345254161268
+      paths ausgeschnitten_26: -6998194977189315140
+      paths ausgeschnitten_27: 6469034385242009861
+      paths ausgeschnitten_28: 6960747987406671470
+      paths ausgeschnitten_29: -6842206883169471453
+      paths ausgeschnitten_3: -329457633587515981
+      paths ausgeschnitten_30: 1762630600205962707
+      paths ausgeschnitten_4: 8936018522015533838
+      paths ausgeschnitten_5: -2095274379892724228
+      paths ausgeschnitten_6: 692436738408580722
+      paths ausgeschnitten_7: -6513865615383139126
+      paths ausgeschnitten_8: -1691588190776374840
+      paths ausgeschnitten_9: 2233121298980930546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

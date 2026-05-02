@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Buntspecht
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 8
+  displayName: Buntspecht
+  germanArticle: 3
+  image: {fileID: -7252822910680281804, guid: 1cc592c7bcf64954a97059ffbf5111ad, type: 3}
+  calls:
+  - {fileID: 8300000, guid: 27ce5e507ed9fcc44af9d97ae910a513, type: 3}
+  - {fileID: 8300000, guid: 59aaaece6acac41438eae85ea4a9676a, type: 3}
+  - {fileID: 8300000, guid: 92811d0bc569f1844a1b77bc70aa418d, type: 3}

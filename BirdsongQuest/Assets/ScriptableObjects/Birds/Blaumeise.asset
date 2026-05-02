@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Blaumeise
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 3
+  displayName: Blaumeise
+  germanArticle: 1
+  image: {fileID: -7341572568252410700, guid: 71b0868813b47b94090a143fd97130a7, type: 3}
+  calls:
+  - {fileID: 8300000, guid: cb799fb0a681e7346899cdf232c01fef, type: 3}
+  - {fileID: 8300000, guid: 6b583282733ba5744999e37cf9a16714, type: 3}

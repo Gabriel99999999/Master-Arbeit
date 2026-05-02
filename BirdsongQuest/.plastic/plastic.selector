@@ -1,0 +1,3 @@
+repository "BirdsongQuest/BirdsongQuest@9071575319300@cloud"
+  path "/"
+    smartbranch "/main/development"

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Kohlmeise
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 5
+  displayName: Kohlmeise
+  germanArticle: 1
+  image: {fileID: 1935062203965762944, guid: 58aae3d26f5228947827246115e6cdef, type: 3}
+  calls:
+  - {fileID: 8300000, guid: 98bbc37d60ad0d6459bc4b5dae3b7d73, type: 3}
+  - {fileID: 8300000, guid: 3f78d967257b2ec4390cea1f622f3177, type: 3}
+  - {fileID: 8300000, guid: 9affc023125be624ab7ea52d32b73f32, type: 3}

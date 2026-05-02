@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13c88c640e22e204392770bd8001f033, type: 3}
+  m_Name: Spatz
+  m_EditorClassIdentifier: Assembly-CSharp::Bird
+  id: 4
+  displayName: Spatz
+  germanArticle: 3
+  image: {fileID: -1667784672302039001, guid: 640b3e20683f655448e3683388e1620f, type: 3}
+  calls:
+  - {fileID: 8300000, guid: bdce164d1474d704abd4fc87ccbea4e0, type: 3}
+  - {fileID: 8300000, guid: 6aad0852f18b61c448f3e22f9ba772d0, type: 3}
+  - {fileID: 8300000, guid: e622cd5f7b89d1447b6fb30efad4c007, type: 3}
+  - {fileID: 8300000, guid: ba3cb1f77d4a0244ca5a66057aba9224, type: 3}
