@@ -5,6 +5,10 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+aktuellster build/
+*.zip
 
 .vs/
 .vscode/
